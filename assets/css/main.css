@@ -3230,6 +3230,11 @@ input, select, textarea {
 
 			}
 
+		.wrapper.socials {
+			min-width: 25%;
+		  	min-height: 10%;
+		}
+
 		.wrapper.alt {
 			background-color: #261c3e;
 		}
